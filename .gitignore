@@ -80,3 +80,8 @@ node_modules
 /playwright/.cache/
 /render-wasm/target/
 /**/.yarn/*
+
+# Claude Code configuration and documentation
+.claude/
+CLAUDE.md
+project-documentation/
